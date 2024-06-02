@@ -36,6 +36,12 @@
 <code>String url = "jdbc:mysql://localhost:3306/empms";
     String username = "root";
     String password = "password";</code>
+  <li>Deploy the project to your Apache Tomcat server.</li>
+  <ul>
+    <li>Right Click on the index.jsp file</li>
+    <li>Click on Run on Server</li>
+    <li>Select Tomcat version 9.0</li>
+  </ul>
 </ol>
 
 
