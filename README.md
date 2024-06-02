@@ -39,6 +39,7 @@
 <code>String url = "jdbc:mysql://localhost:3306/empms";
     String username = "root";
     String password = "password";</code>
+  <h4></h4>
   <li>Deploy the project to your Apache Tomcat server.</li>
   <ul>
     <li>Right Click on the index.jsp file</li>
@@ -57,9 +58,6 @@
 
 <h3>Contributing</h3>
 <p>Contributions are welcome! Please fork the repository and submit pull requests.</p>
-
-<h3>License</h3>
-<p>This project is licensed under the MIT License. See the LICENSE file for details.</p>
 
 <h3>Contact</h3>
 <p>For any inquiries or feedback, please contact me at tarun.agasr@gmail.com.</p>
