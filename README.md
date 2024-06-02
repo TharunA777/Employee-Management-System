@@ -25,6 +25,7 @@
 <ol>
   <li>Clone the repository:</li>
   <code>git clone https://github.com/TharunA777/Employee-Management-System-using-ChatGPT.git</code>
+  <br>
   <li>Import the project into your favorite IDE (like Eclipse or IntelliJ IDEA).</li>
   <li>Configure the MySQL database:
   <ul>
