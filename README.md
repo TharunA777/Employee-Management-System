@@ -50,7 +50,11 @@
 
 Home Page
 
-Add Employee
+![Register](https://github.com/TharunA777/Employee-Management-System-using-ChatGPT/assets/132211534/22d70c31-d48c-403e-b4a8-30fc7c7c342c)
+
+Register
+
+![screenshot gif](https://github.com/TharunA777/Employee-Management-System-using-ChatGPT/assets/132211534/202e9980-f5ec-4246-8bef-baf392f97a23)
 
 View Employees
 
