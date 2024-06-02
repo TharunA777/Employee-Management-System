@@ -26,11 +26,13 @@
   <li>Clone the repository:</li>
   <code>git clone https://github.com/TharunA777/Employee-Management-System-using-ChatGPT.git</code>
   <li>Import the project into your favorite IDE (like Eclipse or IntelliJ IDEA).</li>
-  <li>Configure the MySQL database:</li>
+  <li>Configure the MySQL database:
   <ul>
     <li>Create a database named empms</li>
-    <li>Execute the SQL script schema.sql to create the necessary tables.</li>
+    <li>Execute the SQL script schema.sql to create the necessary table.</li>
   </ul>
+  </li>
+  <li>Update the database connection details in 'Logindao.java':</li>
 </ol>
 
 
