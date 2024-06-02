@@ -24,7 +24,7 @@
 <h3>Installation</h3>
 <ol>
   <li>Clone the repository:</li>
+  <code>git clone https://github.com/yourusername/employeemanagementsystem.git</code>
 </ol>
- <code>Hello world</code>
 
 
