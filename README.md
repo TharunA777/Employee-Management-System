@@ -33,6 +33,11 @@
   </ul>
   </li>
   <li>Update the database connection details in 'Logindao.java':</li>
+  <code>
+    String url = "jdbc:mysql://localhost:3306/empms";
+    String username = "root";
+    String password = "password";
+  </code>
 </ol>
 
 
