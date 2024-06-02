@@ -21,5 +21,12 @@
   <li>Apache Tomcat 9.0</li>
   <li>MySQL 8.0
 </ul>
+<h3>Installation</h3>
+<ol>
+  <li>Clone the repository:</li>
+  '''sh
+  git clone https://github.com/yourusername/employeemanagementsystem.git
+  '''
+</ol>
 
 
