@@ -17,11 +17,9 @@
 <h2>Getting Started</h2>
 <h3>Prerequisites</h3>
 <ul>
-  <li>Getting Started</li>
-  <li>Prerequisites</li>
   <li>JDK 8 or higher</li>
   <li>Apache Tomcat 9.0</li>
-  <li>MySQL 8
+  <li>MySQL 8.0
 </ul>
 
 
