@@ -45,7 +45,7 @@
   <ul>
     <li>Right Click on the <code>index.jsp</code> file</li>
     <li>Click on Run on Server</li>
-    <li>Select Tomcat version 9.0</li>
+    <li>Select Tomcat Server 9.0</li>
   </ul>
 </ol>
 
