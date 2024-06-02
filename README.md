@@ -25,6 +25,6 @@
 <ol>
   <li>Clone the repository:</li>
 </ol>
- ``` hello ```
+ <code>Hello world</code>
 
 
