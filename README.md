@@ -43,7 +43,7 @@
   <h4></h4>
   <li>Deploy the project to your Apache Tomcat server.</li>
   <ul>
-    <li>Right Click on the index.jsp file</li>
+    <li>Right Click on the <code>index.jsp</code> file</li>
     <li>Click on Run on Server</li>
     <li>Select Tomcat version 9.0</li>
   </ul>
