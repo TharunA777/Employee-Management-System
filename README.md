@@ -55,7 +55,7 @@
 
 
 <h3>Credits</h3>
-<p>This project was created as part of a learning exercise. Notably, only 10% of the code was written by me, while the remaining 90% was generated using ChatGPT. This project serves as a testament to my text prompting skills and the effective use of AI-assisted development tools.</p>
+<p>This project was created as part of a learning exercise during my Java Full-Stack Internship. Notably, only 10% of the code was written by me, while the remaining 90% was generated using ChatGPT. This project serves as a testament to my text prompting skills and the effective use of AI-assisted development tools.</p>
 
 <h3>Contributing</h3>
 <p>Contributions are welcome! Please fork the repository and submit pull requests.</p>
