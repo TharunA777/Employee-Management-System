@@ -31,8 +31,8 @@
    <h4></h4>
   <li>Configure the MySQL database:
   <ul>
-    <li>Create a database named empms</li>
-    <li>Execute the SQL script schema.sql to create the necessary table.</li>
+    <li>Create a database named <code>empms</code></li>
+    <li>Execute the SQL script <code>schema.sql</code> to create the necessary table.</li>
   </ul>
   </li>
    <h4></h4>
