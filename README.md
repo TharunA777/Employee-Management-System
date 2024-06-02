@@ -24,9 +24,9 @@
 <h3>Installation</h3>
 <ol>
   <li>Clone the repository:</li>
-  '''sh
+  ```sh
   git clone https://github.com/yourusername/employeemanagementsystem.git
-  '''
+  ```
 </ol>
 
 
