@@ -36,12 +36,12 @@
   </ul>
   </li>
    <h4></h4>
-  <li>Update the database connection details in 'Logindao.java':</li>
+  <li>Update the database connection details in <code>Logindao.java</code>:</li>
 <code>String url = "jdbc:mysql://localhost:3306/empms";
     String username = "root";
     String password = "password";</code>
   <h4></h4>
-  <li>Deploy the project to your Apache Tomcat server.</li>
+  <li>Deploy the project to your Apache Tomcat server:</li>
   <ul>
     <li>Right Click on the <code>index.jsp</code> file</li>
     <li>Click on Run on Server</li>
