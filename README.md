@@ -28,7 +28,7 @@
   <li>Import the project into your favorite IDE (like Eclipse or IntelliJ IDEA).</li>
   <li>Configure the MySQL database:</li>
   <ul>
-    <li>Create a database named yourdb.</li>
+    <li>Create a database named empms</li>
     <li>Execute the SQL script schema.sql to create the necessary tables.</li>
   </ul>
 </ol>
