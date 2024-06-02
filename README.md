@@ -46,6 +46,8 @@
 
 <h3>Screenshots</h3>
 
+![Welcome](https://github.com/TharunA777/Employee-Management-System-using-ChatGPT/assets/132211534/4fe737bf-1124-4e38-b380-096046008d66)
+
 Home Page
 
 Add Employee
