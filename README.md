@@ -25,7 +25,6 @@
 <ol>
   <li>Clone the repository:</li>
   <code>git clone https://github.com/TharunA777/Employee-Management-System-using-ChatGPT.git</code>
-  <br>
   <li>Import the project into your favorite IDE (like Eclipse or IntelliJ IDEA).</li>
   <li>Configure the MySQL database:
   <ul>
@@ -44,5 +43,27 @@
     <li>Select Tomcat version 9.0</li>
   </ul>
 </ol>
+
+<h3>Screenshots</h3>
+
+Home Page
+
+Add Employee
+
+View Employees
+
+<h3>Credits</h3>
+<p>This project was created as part of a learning exercise. Notably, only 10% of the code was written by me, while the remaining 90% was generated using ChatGPT. This project serves as a testament to my text prompting skills and the effective use of AI-assisted development tools.</p>
+
+<h3>Contributing</h3>
+<p>Contributions are welcome! Please fork the repository and submit pull requests.</p>
+
+<h3>License</h3>
+<p>This project is licensed under the MIT License. See the LICENSE file for details.</p>
+
+<h3>Contact</h3>
+<p>For any inquiries or feedback, please contact me at tarun.agasr@gmail.com.</p>
+
+<h4>By acknowledging the significant role ChatGPT played in generating this code, I demonstrate the potential of AI tools in software development and my ability to effectively leverage these tools.</h4>
 
 
