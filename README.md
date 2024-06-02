@@ -25,13 +25,16 @@
 <ol>
   <li>Clone the repository:</li>
   <code>git clone https://github.com/TharunA777/Employee-Management-System-using-ChatGPT.git</code>
+  <h4></h4>
   <li>Import the project into your favorite IDE (like Eclipse or IntelliJ IDEA).</li>
+   <h4></h4>
   <li>Configure the MySQL database:
   <ul>
     <li>Create a database named empms</li>
     <li>Execute the SQL script schema.sql to create the necessary table.</li>
   </ul>
   </li>
+   <h4></h4>
   <li>Update the database connection details in 'Logindao.java':</li>
 <code>String url = "jdbc:mysql://localhost:3306/empms";
     String username = "root";
@@ -46,17 +49,8 @@
 
 <h3>Screenshots</h3>
 
-![Welcome](https://github.com/TharunA777/Employee-Management-System-using-ChatGPT/assets/132211534/4fe737bf-1124-4e38-b380-096046008d66)
-
-Home Page
-
-![Register](https://github.com/TharunA777/Employee-Management-System-using-ChatGPT/assets/132211534/22d70c31-d48c-403e-b4a8-30fc7c7c342c)
-
-Register
-
 ![screenshot gif](https://github.com/TharunA777/Employee-Management-System-using-ChatGPT/assets/132211534/202e9980-f5ec-4246-8bef-baf392f97a23)
 
-View Employees
 
 <h3>Credits</h3>
 <p>This project was created as part of a learning exercise. Notably, only 10% of the code was written by me, while the remaining 90% was generated using ChatGPT. This project serves as a testament to my text prompting skills and the effective use of AI-assisted development tools.</p>
