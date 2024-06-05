@@ -1,0 +1,32 @@
+1.Setting up the Project:
+   - "Can you help me build an Employee Management System using Java, JSP, and MySQL?"
+
+2.Creating JSP Pages:
+   "Can you create a JSP page for user login?"
+   "Can you create a JSP page for adding employees?"
+   "Can you create a JSP page to display all employees?"
+   "Can you create a JSP page for updating employee details?"
+   "Can you create a JSP page for registration?"
+
+3.Styling and Layout Adjustments:
+   "Can you style the login page with CSS?"
+   "Can you align this link (`<a href="View.jsp">View Employees</a>`) beside the add employee button (`<input type="submit" value="Add 		Employee">`) and style the link as a button?"
+   "Can you correctly align these two links (`<a href="Login.jsp">LOGIN PAGE</a>` and `<a href="Register.jsp">Register</a>`) side by side 	below the heading (`<h1>Welcome to XYZ Company</h1>`) and style them as buttons?"
+   "Can you correctly align the heading `<h3>Admin Panel</h3>` on top of the form and change the color of the add button (`<input 	type="submit" value="Add Employee">`) to blue?"
+
+4.Database Operations:
+   "Can you write Java code for adding an employee to the database?"
+   "Can you write Java code for retrieving all employees from the database?"
+   "Can you write Java code for updating employee details?"
+   "Can you write Java code for deleting an employee?"
+   "Can you write the SQL `CREATE TABLE` statement for the users table?"
+   "Can you add a search functionality to the employee table?"
+   "Can you align the search box on the right side of the Employee table heading?"
+
+5.Error Handling and Debugging:
+   "Can you check what is wrong in this code, it's giving me an internal server error?"
+   "Can you remove the update and delete buttons from this code?"
+
+6.Adding Features:
+   "Can you add a 'Registration Successful' message page after a user successfully registers?"
+   "Can you add a new column to store employee phone numbers and explain the step-by-step process?"
