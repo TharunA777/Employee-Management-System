@@ -1,5 +1,3 @@
-CREATE DATABASE empms;
-
 
 CREATE TABLE users (
     username VARCHAR(50) PRIMARY KEY,
