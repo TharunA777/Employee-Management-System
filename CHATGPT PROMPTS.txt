@@ -1,3 +1,5 @@
+EMPLOYEE MANAGEMENT SYSTEM USING CHATGPT
+
 1.Setting up the Project:
    - "Can you help me build an Employee Management System using Java, JSP, and MySQL?"
 
@@ -26,7 +28,3 @@
 5.Error Handling and Debugging:
    "Can you check what is wrong in this code, it's giving me an internal server error?"
    "Can you remove the update and delete buttons from this code?"
-
-6.Adding Features:
-   "Can you add a 'Registration Successful' message page after a user successfully registers?"
-   "Can you add a new column to store employee phone numbers and explain the step-by-step process?"
