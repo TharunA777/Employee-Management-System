@@ -27,7 +27,8 @@
   <li>Clone the repository:</li>
   <code>git clone https://github.com/TharunA777/Employee-Management-System-using-ChatGPT.git</code>
   <h4></h4>
-  <li>Import the project into your favorite IDE (like Eclipse or IntelliJ IDEA).</li>
+  <li>Import the project <code>WAR</code> file into your IDE (Eclipse).</li>
+  <li>Import the <code>mysql-connector.jar</code> file into your project (External Library) to enable MySQL database connectivity.</li>
    <h4></h4>
   <li>Configure the MySQL database:
   <ul>
