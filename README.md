@@ -1,4 +1,4 @@
-<h1> Employee Management System using ChatGPT</h1>
+<h1> Employee Management System</h1>
 <p>This is a simple Employee Management System built using Java, JSP, and MySQL. The project allows for the management of employees, including adding new employees, updating existing employee details, and viewing employee information. This project highlights the integration of database operations and web interface.</p>
 <h3>Features</h3>
 <ul>
